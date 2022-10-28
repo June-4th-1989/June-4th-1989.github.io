@@ -1,0 +1,14 @@
+body {
+  overflow: hidden;
+  background-color: skyblue;
+/*   background-image: url();
+  background-size: cover;
+  background-position: top;  */
+}
+
+canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0;
+}
